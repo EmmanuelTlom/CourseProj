@@ -167,7 +167,7 @@ const getUser = async (data) => {
     console.log(response);
     loading.value = false;
     Notify.create({
-      message: response.data.error.message,
+      message: response ? response.data.error.message : "An error occurred",
       color: "red-3",
       position: "top",
     });
