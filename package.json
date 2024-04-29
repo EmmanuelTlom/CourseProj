@@ -1,8 +1,8 @@
 {
   "name": "talentlms",
   "version": "0.0.1",
-  "description": "TalentLMS",
-  "productName": "TalentLMS",
+  "description": "A system where students can register and then enroll and take courses, lecturers can be assigned courses.",
+  "productName": "Kosi's Project",
   "author": "emmanueltlom <nwabuodafiemmanuel@gmail.com>",
   "private": true,
   "scripts": {
