@@ -136,7 +136,7 @@
               <q-icon size="18px" name="fa-solid fa-user" />
             </q-item-section>
             <q-item-section>
-              <q-item-label>Users</q-item-label>
+              <q-item-label>Students</q-item-label>
             </q-item-section>
           </q-item>
           <q-item

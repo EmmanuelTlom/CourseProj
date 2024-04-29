@@ -148,7 +148,7 @@
               </div>
             </div>
 
-            <div class="input">
+            <!-- <div class="input">
               <label for=""> Profile photo (optional) </label>
               <q-file
                 class="column profile_field justify-center items-center"
@@ -158,14 +158,14 @@
                   <img src="../../assets/down.svg" alt="" />
                 </div>
                 <div class="text3">
-                  <span>Click to upload</span> or drag and drop
+                  <span>Click to upload</span>
                 </div>
 
                 <div class="text2 text-center">
                   SVG, PNG, JPG or GIF (max. 800x400px)
                 </div>
               </q-file>
-            </div>
+            </div> -->
 
             <div class="login_btn">
               <q-btn :loading="loading" type="submit" no-caps flat>
